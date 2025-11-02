@@ -18,7 +18,7 @@ This project demonstrates basic CRUD operations in Django (Create, Read, Update,
 ## 🔧 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/Django-CRUD-Project.git
+git remote add origin https://github.com/BHRXTENT21/Django-CRUD-Project.git
 cd Django-CRUD-Project
 pip install -r requirements.txt
 python manage.py migrate
